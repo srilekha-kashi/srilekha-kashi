@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-srilekhakashireddy19.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://srilekha-kashireddy.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-srilekhakashireddy19@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srilekhakashireddy19@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srilekha-kashireddy)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-srilekhakashi.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://srilekhakashi.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-Srilekhareddy919@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Srilekhareddy919@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srilekhakashi)
   
 </div>
 
@@ -15,8 +15,8 @@ Full-Stack Software Engineer passionate about building scalable applications and
 - 🔭 Currently working on innovative full-stack projects
 - 🌱 Exploring AI/ML integration in web applications
 - 💼 Based in Youngstown, OH
-- 📫 Reach me at: **srilekhakashireddy19@gmail.com**
-- 🌐 Portfolio: **[https://srilekha-kashireddy.vercel.app/](https://srilekha-kashireddy.vercel.app/)**
+- 📫 Reach me at: **Srilekhareddy919@gmail.com**
+- 🌐 Portfolio: **[https://srilekha-kashireddy.vercel.app/](https://srilekhakashi.vercel.app/)**
 
 ## 🛠️ Tech Stack
 
@@ -62,7 +62,7 @@ Modern, responsive portfolio built with Astro 5 and Tailwind CSS
 - 🔍 SEO optimized
 
 ### 💼 More Projects
-Check out my [portfolio](https://srilekha-kashireddy.vercel.app/projects) for more projects!
+Check out my [portfolio](https://srilekhakashi.vercel.app/projects) for more projects!
 
 
 
@@ -72,8 +72,8 @@ I'm always interested in collaborating on innovative projects and discussing new
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge)](https://srilekha-kashireddy.vercel.app/)
-  [![Email](https://img.shields.io/badge/📧_Email-Send_Message-red?style=for-the-badge)](mailto:srilekhakashireddy19@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge)](https://srilekhakashi.vercel.app/)
+  [![Email](https://img.shields.io/badge/📧_Email-Send_Message-red?style=for-the-badge)](mailto:Srilekhareddy919@gmail.com)
   
 </div>
 
@@ -83,6 +83,6 @@ I'm always interested in collaborating on innovative projects and discussing new
   
   ![Profile Views](https://komarev.com/ghpvc/?username=srilekha-kashireddy&color=blueviolet&style=for-the-badge)
   
-  ⭐️ From [srilekha-kashireddy](https://github.com/srilekha-kashireddy)
+  ⭐️ From [srilekha-kashi](https://github.com/srilekha-kashi)
   
 </div>
